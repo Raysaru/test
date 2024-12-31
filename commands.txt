@@ -1,0 +1,5 @@
+git status = blepw tis allages pou excoun ginei sto projecct mou
+git add (onoma arxeiou/*)  = prosthetw ena arxeio gia na anebei sto github
+git commit -m "message" = pws na perigrapseis tin douleia sou (to commit pianei ta prasina, oti exeis kanei add)
+git push = stelenei ola ta commits pou exeis kanei + upload arxeia (to push einai to teliko gia na anevei)
+git pull = fernei oles tis allages apo to git hub sto pc
